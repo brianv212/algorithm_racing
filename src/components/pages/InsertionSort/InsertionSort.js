@@ -49,7 +49,7 @@ function InsertionSort () {
         <div>
             <div className="top-bar">
                 <Back />
-                <Link to="DVInsertionSort" className="link">Visualize It!</Link>
+                <Link to="/algorithm_racing/DVInsertionSort" className="link">Visualize It!</Link>
             </div>
             <h1 style={{textAlign: "center"}}>INSERTION SORT</h1>
             <h5 style={{textAlign: "center"}}><b>WHAT IS IT?</b></h5>

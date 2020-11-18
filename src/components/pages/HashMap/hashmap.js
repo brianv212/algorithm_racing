@@ -8,7 +8,7 @@ function HashMap() {
         <div className="Hash">
             <div className="top-bar">
                 <Back />
-                <Link to="/HashDemo2" className="gettingStarted">Visualize it!</Link>                
+                <Link to="/algorithm_racing/HashDemo2" className="gettingStarted">Visualize it!</Link>                
             </div>
 
             <h1 className="title"><b>HASHMAP</b></h1>

@@ -66,7 +66,7 @@ function RadixSort () {
         <div>
             <div className="top-bar">
                 <Back />
-                <Link to="DVRadixSort" className="link">Visualize it</Link>
+                <Link to="/algorithm_racing/DVRadixSort" className="link">Visualize it</Link>
             </div>
             <div className="heading">
                 <h1>RADIX SORT</h1>

@@ -85,7 +85,7 @@ function BubbleSort() {
         <div>
             <div className="top-bar">
                 <Back />
-                <Link to="DVBubbleSort" className="link">Visualize it</Link>
+                <Link to="/algorithm_racing/DVBubbleSort" className="link">Visualize it</Link>
             </div>
             <h1 className="bubble_sort">BUBBLE SORT</h1>
             <h5 className="descriptionTitle"><b>WHAT IS IT?</b></h5>

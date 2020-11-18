@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom'
 function Header() {
     return (
         <header style={headerStyle}>
-            <h1><Link style={linkStyle} to="/">Algorithm Racing!</Link></h1>
+            <h1><Link style={linkStyle} to="/algorithm_racing">Algorithm Racing!</Link></h1>
         </header>
     )
 }

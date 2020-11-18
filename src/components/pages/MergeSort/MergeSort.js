@@ -103,7 +103,7 @@ function MergeSort() {
         <div>
             <div className="top-bar">
                 <Back />
-                <Link to="DVMergeSort" className="link">Visualize it</Link>
+                <Link to="/algorithm_racing/DVMergeSort" className="link">Visualize it</Link>
             </div>
             <h1 className="merge_title">MERGE SORT</h1>
             <h5 className="descriptionTitle"><b>WHAT IS IT?</b></h5>

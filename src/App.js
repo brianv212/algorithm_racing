@@ -33,26 +33,26 @@ function App() {
             <div className="App">
                 <Header />
                 <Switch>
-                    <Route path="/algorithm-racing" exact component={Homepage} />
+                    <Route path="/algorithm_racing" exact component={Homepage} />
 
-                    <Route path="/BubbleSort" exact component={BubbleSort} />
-                    <Route path="/DVBubbleSort" exact component={DVBubbleSort} />
+                    <Route path="/algorithm_racing/BubbleSort" exact component={BubbleSort} />
+                    <Route path="/algorithm_racing/DVBubbleSort" exact component={DVBubbleSort} />
 
-                    <Route path="/InsertionSort" exact component={InsertionSort} />
-                    <Route path="/DVInsertionSort" exact component={DVInsertionSort} />
+                    <Route path="/algorithm_racing/InsertionSort" exact component={InsertionSort} />
+                    <Route path="/algorithm_racing/DVInsertionSort" exact component={DVInsertionSort} />
 
-                    <Route path="/MergeSort" exact component={MergeSort} />
-                    <Route path="/DVMergeSort" exact component={DVMergeSort} />
+                    <Route path="/algorithm_racing/MergeSort" exact component={MergeSort} />
+                    <Route path="/algorithm_racing/DVMergeSort" exact component={DVMergeSort} />
                     
-                    <Route path="/RadixSort" exact component={RadixSort} />
-                    <Route path="/DVRadixSort" exact component={DVRadixSort} />
+                    <Route path="/algorithm_racing/RadixSort" exact component={RadixSort} />
+                    <Route path="/algorithm_racing/DVRadixSort" exact component={DVRadixSort} />
 
-                    <Route path="/HashMap_1" exact component={HashMap} />
-                    <Route path="/HashMap_2" exact component={HashMap2} />
-                    <Route path="/HashDemo" exact component={HMDemo} />
-                    <Route path="/HashDemo2" exact component={HMDemo2} />
+                    <Route path="/algorithm_racing/HashMap_1" exact component={HashMap} />
+                    <Route path="/algorithm_racing/HashMap_2" exact component={HashMap2} />
+                    <Route path="/algorithm_racing/HashDemo" exact component={HMDemo} />
+                    <Route path="/algorithm_racing/HashDemo2" exact component={HMDemo2} />
 
-                    <Route path="/Stack" exact component={Stack} />
+                    <Route path="/algorithm_racing/Stack" exact component={Stack} />
 
                 </Switch>
             </div>

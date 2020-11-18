@@ -6,7 +6,7 @@ function Back() {
     return (
         <div className='container-fluid'>
             <nav>
-                <Link className='navStyle' to="/">
+                <Link className='navStyle' to="/algorithm_racing">
                     <p className="text">Back to Home</p>
                 </Link>
             </nav>
