@@ -1,0 +1,12 @@
+.array-container {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.array {
+    width: 8px;
+    background-color: purple;
+    display: inline;
+    margin: 0 2px;
+}

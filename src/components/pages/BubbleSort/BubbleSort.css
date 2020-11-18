@@ -1,0 +1,63 @@
+.top-bar {
+    display: flex;
+    flex-direction: row;
+}
+
+.link {
+    margin-top: 17px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.bubbleList {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.left {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: red
+}
+
+.right {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: green
+}
+
+.bubble_sort {
+    text-align: center;
+}
+
+.description_title {
+    text-align: center;
+    margin: 25px;
+    margin-bottom: 0;
+}
+
+.description {
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+    margin-top: 0;
+}
+
+.center {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.history {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+} 

@@ -1,0 +1,82 @@
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+}
+.gettingStarted {
+    margin-top: 17px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.title {
+    text-align: center
+}
+
+.info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 50px;
+}
+
+.subt-what-is-it {
+    text-align: center;
+}
+.what-is-it {
+    flex: 1;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.subt-hash-value {
+    text-align: center;
+}
+.hash-value {
+    flex: 1;
+    flex-direction: row;
+}
+
+.example {
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: #333;
+    color: white;
+}
+.cat-example li{
+    list-style-type: none;
+}
+
+
+
+.options {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 50px;
+}
+
+
+.link-one {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.click-one {
+    flex: 1;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.form {
+    display: flex;
+    flex-direction: row;
+} 
+
+.submit {
+    text-decoration: none;
+    color: purple
+}

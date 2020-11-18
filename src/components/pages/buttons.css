@@ -1,0 +1,32 @@
+.b {
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.b:disabled {
+    background-color: grey;
+}
+
+.b:hover {
+    background-color: #535362;
+    font-weight: normal;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
+
+.buttons_left div{
+    display: inline;
+    justify-content: space-between;
+    margin-left: 25px;
+    font-size: 15px;
+}
+

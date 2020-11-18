@@ -1,0 +1,50 @@
+.sq_title {
+    text-align: center;
+}
+
+.descriptionTitle {
+    text-align: center;
+    margin: 60px;
+    margin-bottom: 0;
+}
+
+.description {
+    display: flex;
+    justify-content: center;
+}
+
+
+form {
+    margin-bottom: 20px;
+}
+
+.push_pop {
+    margin: 20px;
+    background: rgb(48, 219, 162);
+    padding: 10px;
+    text-align: center
+}
+
+
+.Stack {
+    margin: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.change_mode {
+    margin: 20px;
+    width: fit-content;
+    height: fit-content;
+    background: rgb(48, 219, 162);
+    padding: 10px;
+    text-align: center
+}
+
+
+.stackList {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+} 

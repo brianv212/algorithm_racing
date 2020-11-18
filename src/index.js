@@ -1,10 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+// import { Router, hashHistory as history } from 'react-router';
+// import routes from './Routes';
 
 ReactDOM.render(
+  // <Router routes={routes} history={history} />,
+  // document.getElementById('dv-app')
   <React.StrictMode>
     <App />
   </React.StrictMode>,

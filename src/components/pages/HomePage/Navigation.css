@@ -1,0 +1,27 @@
+.header {
+    margin-top: 2%;
+}
+
+.links {
+    margin-top: 0%;
+}
+
+.links li{
+    display: inline;
+    justify-content: space-between;
+    margin: 30px;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.H {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+} 
+
+.linkstyle {
+    color: 'purple';
+    text-decoration: none;
+    font-weight: normal;
+}

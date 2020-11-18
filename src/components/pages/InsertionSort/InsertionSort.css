@@ -1,0 +1,43 @@
+.top-bar {
+    display: flex;
+    flex-direction: row;
+}
+
+.link {
+    margin-top: 17px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.details {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+}
+
+.listred {
+    color: red;
+}
+
+.listgreen {
+    color: green;
+}
+
+.listRender {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.InsertionNode {
+    /* For the box style */
+    width: 100px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 40px;
+    /* For the containers */
+    display: flex;
+    flex-direction: row;
+    /* For the contents inside */
+    justify-content: center;
+}
